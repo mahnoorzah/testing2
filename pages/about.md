@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://www.wishtv.com/wp-content/uploads/2020/09/DePauw-University-Campus.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
