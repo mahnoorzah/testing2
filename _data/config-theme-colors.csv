@@ -1,10 +1,10 @@
 color_class,color
 primary, #ff0080
-secondary,
-success,
-info,
-warning,
-danger,
-light,
-dark,
+secondary, #ff0080
+success, #ff0080
+info, #ff0080
+warning, #ff0080
+danger, #ff0080
+light, #ff0080
+dark, #ff0080
 newcolor = "#B2AC88"
