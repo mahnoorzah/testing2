@@ -7,4 +7,4 @@ warning,
 danger,
 light,
 dark,
-newcolor, "#B2AC88"
+newcolor = "#B2AC88"
